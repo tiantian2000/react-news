@@ -1,0 +1,121 @@
+.container{
+    margin-top: 10px;
+}
+
+.container .left_container{
+    float: left;
+}
+
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 250px;
+    line-height: 250px;
+    overflow: hidden;
+}
+
+.container .left_container .carousel{
+    width:400px;
+    height:250px;
+    float:left;
+}
+
+.tabs_news{
+    padding-left:15px;
+    width:440px;
+    float:left;
+}
+
+.top_news a{
+    color: #5F5F5F;
+}
+
+.tabs_news .ant-card-body{
+    padding: 10px 0 5px 0;
+}
+
+.tabs_news .ant-tabs-bar{
+    margin-bottom: 0 !important;
+}
+
+.tabs_news .ant-card-bordered{
+    border-top: 0;
+}
+
+.tabs_news li{
+    height: 27px;
+    line-height: 27px;
+    font-size: 14px;
+    width: 380px;
+    white-space: nowrap;
+    overflow: hidden;
+    float: left;
+    text-overflow: ellipsis; /*显示省略符号来代表被修剪的文本*/
+}
+
+
+
+.top_image_news{
+    margin: 5px 0 10px 0;
+}
+
+.top_image{
+    clear: both;
+}
+
+.top_image .ant-card-head-wrapper{
+    height: 40px;
+}
+
+.top_image .ant-card-head-wrapper .ant-card-head-title{
+    font-weight: bold;
+}
+
+.top_image .ant-card-meta-title{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.top_image .image_block{
+    float: left;
+    font-size: 12px !important;
+}
+
+.top_image .ant-card{
+    padding:10px;
+}
+
+.top_image .ant-card-body {
+    padding: 2px;
+}
+
+.news_container_sub .ant-avatar{
+    width: 120px;
+    height: 96px;
+}
+
+.news_container_sub .ant-list-item-meta-description{
+    line-height: 70px;
+}
+
+.news_container_sub .ant-divider-vertical{
+    background-color: #f33;
+    width: 4px;
+}
+
+.news_container_sub .ant-divider-vertical{
+    height: 1.5em;
+}
+
+.news_container_sub .title{
+    padding-left: 20px;
+}
+
+.news_container_sub .title a{
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.news_container_sub .ant-list-item{
+    padding-left: 22px;
+}

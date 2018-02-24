@@ -1,0 +1,44 @@
+.product_all .ant-card-head-title{
+    font-size: 14px;
+}
+
+.product_all .tabs_product .ant-card-body{
+    padding: 0;
+}
+
+.product_all .ant-divider-horizontal {
+    display: inline-block;
+}
+
+.product_all .ant-divider-vertical{
+    background-color: #f33;
+    width: 2px;
+}
+
+.product_all ul{
+    list-style: none;
+}
+
+.product_all ul li{
+    float: left;
+    width: 50px; /* 设置第一个选项的距离*/
+    height: 24px;
+    line-height: 24px;
+    text-align: center; /* 水平距中*/
+    font-size: 12px;
+}
+
+.tabs_product{
+    width:280px;
+    float: left;
+    padding-left:10px;
+}
+
+.tabs_product .ant-card-body{
+    padding: 5px;
+}
+
+.tabs_product .ant-card-meta-title{
+    text-align: center;
+    font-size: 12px;
+}
