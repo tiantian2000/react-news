@@ -9,8 +9,8 @@ React+react-router+ant design
 https://tiantian2000.github.io/react-news/
 
 <h2>项目截图<h2>
-<img src="https://github.com/tiantian2000/react-news/blob/gh-pages/示例1.png"/>
-<img src="https://github.com/tiantian2000/react-news/blob/gh-pages/示例.png"/>
+<img src="https://github.com/tiantian2000/react-news/blob/gh-pages/示例.PNG"/>
+<img src="https://github.com/tiantian2000/react-news/blob/gh-pages/示例1.PNG"/>
 
 <h2> 运行项目</h2>
 
